@@ -1,5 +1,10 @@
 # Análise da Qualidade do Ar em São Paulo
 
+## Esse projeto foi documentado por mim no Kaggle. Criei um notebook e um dataset para essa análise
+kaggle kernels pull isabelgonalves/an-lise-da-qualidade-do-ar-em-s-o-paulo
+/kaggle/input/dados-sp-ar-qualidade/Dados_SP_AR_Qualidade.csv
+
+
 # Introdução
 A qualidade do ar é um fator crítico para a saúde pública e o bem-estar das populações urbanas. Na cidade de São Paulo, uma das maiores metrópoles do mundo, o monitoramento da qualidade do ar é essencial para identificar poluentes, entender suas fontes e mitigar seus efeitos adversos na saúde. Este projeto visa analisar a qualidade do ar na cidade de São Paulo utilizando dados históricos fornecidos por estações de monitoramento distribuídas pela cidade. A análise inclui a visualização de tendências temporais, identificação de padrões e correlação entre diferentes poluentes atmosféricos.
 
